@@ -1,168 +1,149 @@
-<h1 align="center">
-  Hi 👋, I'm Dhanancheyan
-</h1>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Cyber Security Banner" width="100%">
+</p>
+
+<h1 align="center">Hi 👋, I'm Dhanancheyan</h1>
 
 <h3 align="center">
-Computer Science Student | AI & RAG Enthusiast | Full Stack Developer | Cybersecurity Learner
+💻 B.E. Computer Science & Engineering (Cyber Security) Student
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Building+AI+Applications;Learning+RAG+%26+LLMs;Full+Stack+Developer;Cybersecurity+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;AI+%26+RAG+Developer;Full+Stack+Developer;CTF+Player;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
-
----
-
-## 🚀 About Me
-
-- 🎓 Computer Science Student
-- 🤖 Passionate about Artificial Intelligence & LLMs
-- 📚 Currently learning **RAG, LangChain, Vector Databases**
-- 🌐 Exploring **React, Next.js, Node.js**
-- 🔐 Interested in **Cybersecurity & CTFs**
-- 💡 Love building projects that solve real-world problems
-
----
-
-## 🌱 Currently Working On
-
-- 🚀 NagarTag – Civic Issue Reporting Platform
-- 🧠 AI RAG Applications
-- 🔐 Cybersecurity Labs
-- 💻 LeetCode & DSA
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css" />
-</p>
-
-### Frameworks & Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### AI & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
-</p>
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <em>"Building secure software, exploring AI, and solving real-world problems through technology."</em>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 👨‍💻 About Me
 
-<p align="center">
+🎓 B.E. Computer Science & Engineering (Cyber Security)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+🔐 Passionate about Cybersecurity, Ethical Hacking & Capture The Flag (CTF)
 
+🤖 Exploring Artificial Intelligence, Large Language Models & RAG
+
+🌐 Learning Full Stack Web Development
+
+💡 Interested in solving real-world problems through technology
+
+🚀 Always learning and building something new
+
+---
+
+# 🚀 Currently Working On
+
+- 🏙️ **NagarTag** – Smart Civic Issue Reporting Platform
+- 🤖 AI-powered RAG Applications
+- 🔐 Cybersecurity Labs & CTF Challenges
+- 💻 Data Structures & Algorithms
+- 🌐 Full Stack Development
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css" />
+</p>
+
+### ⚙️ Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 🎯 Areas of Interest
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=10&margin-h=10"/>
-
-</p>
+- 🔐 Cyber Security
+- 🤖 Artificial Intelligence
+- 🧠 Retrieval-Augmented Generation (RAG)
+- 🌐 Full Stack Development
+- ☁️ Cloud Computing
+- 📡 Networking
+- 🔍 Penetration Testing
+- 🚩 Capture The Flag (CTF)
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🚩 NagarTag
-> A civic issue reporting platform where citizens can report public problems and track resolutions.
+### 🏙️ NagarTag
+A smart civic issue reporting platform that enables citizens to report public issues and track their resolution.
 
 ### 🤖 AI RAG Chatbot
-> Retrieval-Augmented Generation chatbot using modern LLM technologies.
+A Retrieval-Augmented Generation chatbot capable of answering questions using custom knowledge bases.
 
 ### 🔐 Cybersecurity Labs
-> CTF write-ups, reverse engineering, networking, and Linux practice.
+A collection of CTF write-ups, Linux labs, networking exercises, and security practice projects.
 
-### 💻 LeetCode Solutions
-> Data Structures & Algorithms solutions with explanations.
+### 💻 DSA & LeetCode Solutions
+Optimized solutions to data structures and algorithms problems with explanations.
 
 ---
 
-## 🎯 2026 Goals
+# 📚 Currently Learning
 
-- ✅ Master RAG
-- ✅ Learn LangChain
-- ✅ Build Production AI Apps
+- Artificial Intelligence & Machine Learning
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- Vector Databases
+- Linux & System Administration
+- Ethical Hacking
+- Reverse Engineering
+- Web Security
+- Docker
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Become proficient in Cybersecurity
+- ✅ Build production-ready AI applications
+- ✅ Master RAG & LLM Development
 - ✅ Contribute to Open Source
 - ✅ Participate in Hackathons
-- ✅ Crack an Internship
+- ✅ Secure a Software/Cybersecurity Internship
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-<p align="left">
+📧 **Email:** msdv2010@gmail.com
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
+🌐 **Portfolio:** Coming Soon...
 
 ---
 
-<p align="center">
+<div align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue)
+## 💬 Favorite Quote
 
-</p>
+### *"Learn. Build. Break. Secure. Repeat."*
 
 ---
 
-<p align="center">
+⭐ **Thanks for visiting my profile!** ⭐
 
-### 💬 Favorite Quote
+If you like my projects, consider giving them a ⭐.
 
-*"Code. Learn. Build. Repeat."*
-
-</p>
-
-<p align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
-</p>
+</div>
